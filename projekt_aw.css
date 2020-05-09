@@ -1,0 +1,189 @@
+body
+{ background-color: khaki;}
+
+html{border-style: double;
+    border-color: orangered;}
+    html {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 25px;
+        margin-left: 25px;
+      }
+      html {
+        padding-top: 25px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+      }
+html{text-align: center;  }
+.ajnc{
+  text-align: center;
+  font-family: fantasy;
+  font-size: xx-large;
+    color: peru;
+}
+table{
+    background-color: palegoldenrod;
+    text-decoration-color: peru;
+    
+text-align: center;
+padding-left: 3px ;
+padding-top:3px ;
+padding-right:3px ;
+padding-bottom:3px ;
+width: 100%;
+}
+img {
+  border-radius: 8px;
+}
+.drugi{
+  text-decoration-color: peru;
+  text-align: left;
+  font-family: fantasy;
+  font-size: x-large;
+}
+.lajk{
+  color: rgb(199, 104, 8);
+  text-align: center; 
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
+
+
+li {
+        color: lightslategrey;
+      font-size: large;}
+ .vertical-menu {
+    width: 200px;
+    height: 200px;
+          }
+          
+          .riki{ text-align: left;
+            color: chocolate;
+          font-size: medium;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+            .kiki{ text-align: left;
+              color:black;
+            font-size: large;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+          th {
+            font-size: large;
+            background-color:white;
+            color:orange;
+          }
+          tr{
+            background-color:peru;
+            color: black;
+            
+          }
+
+          
+          .vertical-menu a {
+            background-color: palegoldenrod; /* Grey background color */
+            color: black; /* Black text color */
+            display: block; /* Make the links appear below each other */
+            padding: 12px; /* Add some padding */
+            text-decoration: none; /* Remove underline from links */
+            text-align: center;
+          }
+        
+          
+          .vertical-menu a:hover {
+            background-color: peru; /* Dark grey background on mouse-over */
+          }
+          
+          .vertical-menu a.active {
+            background-color: orange; /* Add a green color to the "active/current" link */
+            color:orangered;}
+
+
+    
+
+      div.gallery {
+        margin: 5px;
+        border: 1px solid orange;
+        float: left;
+        width: 180px;
+      }
+      
+      div.gallery:hover {
+        border: 1px solid orange;
+      }
+      
+      div.gallery img {
+        width: 100%;
+        height: auto;
+      }
+      
+      div.desc {
+        padding: 15px;
+        text-align: center;
+      }
+.ajme{ text-align: left;}
+.column {
+  float: left;
+  width: 32%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+.container {
+  padding: 0 16px;
+}
+
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: peru;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+.button:hover {
+  background-color:peru;
+}
+h4{
+  color: peru;
+}
+form{
+  text-align: left;
+
+}
+.klasa{
+  text-align: left;
+  color: peru;
+}
+
+
+     
+      
+     
+          
